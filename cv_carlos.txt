@@ -1,0 +1,96 @@
+[PERSON_ID]
+
+ID_PERSONA: CV_003_CARLOS_ANDRES_MENDOZA
+AGENTE_ASOCIADO: AGENTE_CARLOS_MENDOZA
+ROL_PRINCIPAL: Ingeniero en Robótica y Sistemas Autónomos
+DOMINIOS_CLAVE: Robótica, Control, ROS, Sistemas Autónomos, Vehículos No Tripulados
+
+[INFORMACIÓN PERSONAL]
+
+Nombre completo: Carlos Andrés Mendoza Ríos
+País: Chile
+Ciudad: Santiago
+Correo electrónico: carlos.mendoza@uchile.cl
+
+Identificadores académicos:
+
+ORCID: 0000-0003-9988-1122
+
+SCOPUS ID: 57123456789
+
+H-Index (Scopus): 4
+
+[PERFIL PROFESIONAL]
+
+Ingeniero e investigador especializado en robótica móvil, sistemas autónomos y control inteligente, con experiencia en el desarrollo de robots terrestres y aéreos para inspección, agricultura y minería.
+
+Ha trabajado en proyectos de integración de sensores, control autónomo y simulación en entornos reales y virtuales utilizando ROS, Gazebo y sistemas embebidos.
+
+[ÁREAS DE ESPECIALIZACIÓN]
+
+Especialidades técnicas:
+
+Robótica móvil
+
+Control automático
+
+ROS / ROS2
+
+Sistemas autónomos
+
+Drones y vehículos no tripulados
+
+Fusión de sensores
+
+[FORMACIÓN ACADÉMICA]
+Doctorado
+
+Doctorado en Ingeniería Eléctrica
+Universidad de Chile — Chile
+
+Maestría
+
+Magíster en Automatización y Robótica
+Universidad Técnica Federico Santa María — Chile
+
+Pregrado
+
+Ingeniería Electrónica
+Universidad de Chile — Chile
+
+[PRODUCCIÓN CIENTÍFICA]
+
+Artículos indexados: 12
+Líneas principales: robótica autónoma, control inteligente
+
+Ejemplos:
+
+Autonomous navigation of mobile robots in unstructured environments
+
+Sensor fusion strategies for robotic systems
+
+[PROYECTOS DE INVESTIGACIÓN]
+
+Robot autónomo para inspección de túneles mineros
+
+Sistema robótico para agricultura de precisión
+
+Plataforma ROS para navegación autónoma en exteriores
+
+[EXPERIENCIA PROFESIONAL]
+
+Investigador Principal en Robótica
+Centro de Innovación en Robótica — Chile | 2019 – Presente
+
+Ingeniero de Desarrollo
+Startup de robótica agrícola | 2016 – 2019
+
+[IDIOMAS]
+
+Español: Nativo
+
+Inglés: Avanzado
+
+[TAGS PARA RAG / AGENTES]
+
+Robótica, ROS, Control, Sistemas Autónomos, Drones, Ingeniería Electrónica

@@ -1,0 +1,106 @@
+[PERSON_ID]
+
+ID_PERSONA: CV_002_MARIA_ELENA_QUISPE
+AGENTE_ASOCIADO: AGENTE_MARIA_QUISPE
+ROL_PRINCIPAL: Investigadora en Ciencia de Datos y Analítica Educativa
+DOMINIOS_CLAVE: Ciencia de Datos, Analítica Educativa, Machine Learning, Estadística Aplicada
+
+[INFORMACIÓN PERSONAL]
+
+Nombre completo: María Elena Quispe Huamán
+País: Perú
+Ciudad: Arequipa
+Correo electrónico: maria.quispe@uni.edu.pe
+
+Identificadores académicos:
+
+ORCID: 0000-0002-4567-8899
+
+SCOPUS ID: 57488999123
+
+H-Index (Scopus): 5
+
+RENACYT: Investigadora activa
+
+[PERFIL PROFESIONAL]
+
+Investigadora RENACYT especializada en Ciencia de Datos y Machine Learning aplicado a educación, con experiencia en modelos predictivos para rendimiento académico, deserción universitaria y evaluación de políticas educativas.
+
+Ha liderado proyectos de analítica educativa en universidades públicas y privadas del Perú, participando en el diseño de dashboards analíticos, modelos de predicción y sistemas de recomendación académica. Cuenta con experiencia en publicaciones científicas y consultorías para el sector educativo.
+
+[ÁREAS DE ESPECIALIZACIÓN]
+
+Especialidades técnicas:
+
+Ciencia de Datos
+
+Machine Learning supervisado y no supervisado
+
+Análisis estadístico
+
+Analítica educativa
+
+Python, R, SQL
+
+Visualización de datos
+
+Áreas transversales:
+
+Evaluación educativa
+
+Políticas públicas en educación
+
+Ética en IA
+
+[FORMACIÓN ACADÉMICA]
+Doctorado
+
+Doctorado en Ciencia de Datos
+Universidad Politécnica de Madrid — España
+
+Maestría
+
+Maestría en Estadística Aplicada
+Universidad Nacional de Ingeniería — Perú
+
+Pregrado
+
+Ingeniería Estadística
+Universidad Nacional de San Agustín — Perú
+
+[PRODUCCIÓN CIENTÍFICA]
+
+Artículos indexados: 15
+Líneas principales: analítica educativa, predicción académica
+
+Ejemplos:
+
+Predictive models for student dropout using academic data
+
+Machine learning approaches for academic performance assessment
+
+[PROYECTOS DE INVESTIGACIÓN]
+
+Sistema predictivo de deserción universitaria usando ML
+
+Plataforma de analítica educativa para toma de decisiones institucionales
+
+Evaluación de impacto de políticas educativas mediante modelos estadísticos
+
+[EXPERIENCIA PROFESIONAL]
+
+Docente Investigadora
+Universidad Nacional de Ingeniería | 2020 – Presente
+
+Consultora en Analítica Educativa
+Ministerio de Educación | 2018 – 2020
+
+[IDIOMAS]
+
+Español: Nativo
+
+Inglés: Avanzado
+
+[TAGS PARA RAG / AGENTES]
+
+Ciencia de Datos, Machine Learning, Analítica Educativa, Estadística, Educación, Modelos Predictivos

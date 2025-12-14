@@ -1,0 +1,5 @@
+python-dotenv
+sentence-transformers
+pinecone
+groq
+streamlit

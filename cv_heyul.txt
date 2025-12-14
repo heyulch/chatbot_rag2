@@ -1,0 +1,211 @@
+[PERSON_ID]
+
+ID_PERSONA: CV_001_JORGE_HEYUL
+AGENTE_ASOCIADO: AGENTE_JORGE_HEYUL
+ROL_PRINCIPAL: Investigador en Inteligencia Artificial y Sistemas Electrónicos
+DOMINIOS_CLAVE: Inteligencia Artificial, Edge Computing, Salud Digital, Agricultura Inteligente, Propiedad Intelectual
+
+[INFORMACIÓN PERSONAL]
+
+Nombre completo: Jorge Heyul Chávez Arias
+País: Perú
+Ciudad: Lima
+Teléfono: +51 951 999 999
+Correo electrónico: heyul.chavez@gmail.com
+
+Identificadores académicos:
+
+ORCID: 0000-0001-9415-2782
+
+SCOPUS ID: 57215856473
+
+H-Index (Scopus): 3
+
+RENACYT: Investigador activo
+
+[PERFIL PROFESIONAL]
+
+Investigador RENACYT con experiencia en el diseño y desarrollo de soluciones tecnológicas basadas en Inteligencia Artificial, Edge Computing y sistemas electrónicos, aplicados principalmente a salud, industria y agricultura.
+
+Actualmente se desempeña como Asistente de Investigación en la Universidad Peruana de Ciencias Aplicadas (UPC), participando activamente en:
+
+proyectos de I+D+i,
+
+redacción y revisión de artículos científicos,
+
+formulación, solicitud y registro de patentes tecnológicas ante INDECOPI y PCT.
+
+Cuenta con experiencia en gestión académica, siendo Publication Chair del congreso internacional ICALTER en las ediciones 2021–2024. Ha colaborado en redes internacionales de innovación y fue becario del programa Leadership in Innovation Fellowships (LIF) de la Royal Academy of Engineering (Reino Unido).
+
+[ÁREAS DE ESPECIALIZACIÓN]
+
+Especialidades técnicas:
+
+Inteligencia Artificial aplicada
+
+Visión por Computador
+
+Procesamiento de señales biomédicas
+
+Edge Computing
+
+Sistemas embebidos
+
+Teledetección
+
+Agricultura inteligente
+
+Salud digital
+
+Áreas transversales:
+
+Propiedad intelectual
+
+Redacción de patentes
+
+Publicaciones científicas
+
+Innovación tecnológica con impacto social
+
+[FORMACIÓN ACADÉMICA]
+Doctorado
+
+Doctorado en Tecnologías de la Información y las Comunicaciones
+Universidad Rey Juan Carlos (URJC) — Madrid, España
+Estado: En curso
+
+Maestrías
+
+Maestría en Ingeniería de Sistemas de Decisión
+Universidad Rey Juan Carlos (URJC) — España
+
+Maestría en Inteligencia Artificial
+Universidad de Buenos Aires (UBA) — Argentina
+
+Pregrado
+
+Ingeniería en Telecomunicaciones y Redes
+Universidad Peruana de Ciencias Aplicadas (UPC) — Perú
+
+Especialización
+
+Especialista en Inteligencia Artificial
+Universidad de Buenos Aires (UBA) — Argentina
+
+[PRODUCCIÓN CIENTÍFICA]
+
+Total de artículos indexados: 20+
+Bases de datos: Scopus, Web of Science
+
+Artículos seleccionados (ejemplos)
+
+Artificial neural network model to predict student performance using nonpersonal information
+DOI: 10.3389/feduc.2023.1106679
+
+Development of a turbine spirometer prototype and signal digitalization
+DOI: 10.1109/LAEDC58183.2023.10209125
+
+Design of a control and monitoring system to reduce traffic accidents due to drowsiness through image processing
+DOI: 10.1109/CONCAPANXXXIX47272.2019.8976928
+
+(Lista completa disponible en el CV original — indexable por RAG)
+
+[PATENTES]
+
+Total de patentes registradas o solicitadas: 25
+Entidad: INDECOPI / PCT
+
+Áreas de las patentes:
+
+Dispositivos médicos
+
+Diagnóstico respiratorio
+
+Espirometría digital
+
+Agricultura inteligente
+
+Sistemas electrónicos industriales
+
+Visión artificial aplicada
+
+Ejemplos relevantes:
+
+Dispositivo portátil de medición no invasiva de hemoglobina (Exp. 3123-2024)
+
+Personal digital spirometer for respiratory disease control (Exp. 001939-2020/DIN)
+
+Equipo electrónico para estimación del tiempo de hospitalización COVID-19 (PCT/CL2021/050128)
+
+[PROYECTOS DE INVESTIGACIÓN]
+
+Institución ejecutora principal: Universidad Peruana de Ciencias Aplicadas (UPC)
+
+Rol recurrente:
+
+Desarrollo de software
+
+Liderazgo técnico
+
+Aplicación móvil
+
+Inteligencia Artificial
+
+Líneas de proyecto:
+
+Dispositivos biomédicos
+
+Agricultura de precisión
+
+Sistemas inteligentes
+
+Instrumentación electrónica
+
+Visión por computador
+
+(14 proyectos detallados — estructurados por período, rol y dominio)
+
+[EXPERIENCIA PROFESIONAL]
+Académica
+
+Docente RENACYT — Ingeniería de Redes y Comunicaciones
+UPC | Mayo 2024 – Presente
+
+Asistente de Investigación
+Dirección de Investigación, UPC | Abril 2019 – Presente
+
+Industria
+
+Analista de Servicios Gestionados
+INET Perú S.A.C. | 2015
+
+Gestión de proyectos
+
+Configuración de redes
+
+Sistemas de monitoreo (Cacti, Nagios, Cisco Prime)
+
+[FORMACIÓN COMPLEMENTARIA]
+
+Leadership in Innovation Fellowships (LIF) — Royal Academy of Engineering, UK
+
+Visión por Computador con OpenCV 4.10
+
+Propiedad Intelectual y Redacción de Patentes — INDECOPI
+
+Escuela Internacional de Verano de IA — Argentina
+
+Machine Learning Summer School (MLSS 2025) — Perú
+
+[IDIOMAS]
+
+Español: Nativo
+
+Inglés: Nivel intermedio (constancia de suficiencia)
+
+Alemán: Nivel A1
+
+[TAGS PARA RAG / AGENTES]
+
+KEYWORDS:
+IA, Inteligencia Artificial, Investigador RENACYT, Patentes, Salud Digital, Edge Computing, Visión por Computador, UPC, UBA, URJC, Agricultura Inteligente, Sistemas Electrónicos, Publicaciones Científicas
