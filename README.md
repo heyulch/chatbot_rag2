@@ -15,9 +15,7 @@ Profesor: Mg. Ing. Ezequiel Guinsburg, Abraham Rodriguez.
 Implementar un sistema de Retrieval-Augmented Generation (RAG) que sea capaz de responder consultas dependiendo de la persona mencionada en la query, utilizando:
 
 - Un agente por persona (1 CV = 1 agente).
-
 - Un agente por defecto (heyul) cuando no se menciona ninguna persona.
-
 - Modo multi-CV cuando se consulta por más de una persona.
 
 El sistema debe decidir dinámicamente qué agente(s) utilizar y recuperar el contexto adecuado desde una base vectorial.
@@ -113,17 +111,13 @@ Los CV fueron reestructurados previamente para mejorar el funcionamiento del RAG
 Esto permitió:
 
 - Chunks más coherentes semánticamente
-
 - Mejor recuperación de información específica (patentes, ORCID, proyectos, etc.)
-
 - Menor cantidad de chunks irrelevantes
 
 Gracias a esta estructura, el sistema:
 
 - Usa menos chunks
-
 - Consume menos memoria
-
 - Recupera información más precisa
 
 La lógica final del sistema se beneficia directamente de esta mejora estructural.
@@ -240,3 +234,4 @@ Sí, tanto María como Carlos tienen maestría.
 María tiene una Maestría en Estadística Aplicada de la Universidad Nacional de Ingeniería en Perú.
 
 Carlos tiene una Maestría en Automatización y Robótica de la Universidad Técnica Federico Santa María en Chile.
+
